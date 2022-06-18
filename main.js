@@ -33,7 +33,6 @@ function likeCallHeart(event){
 
 
 
-
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
 //------------------------------------------------------------------------------
